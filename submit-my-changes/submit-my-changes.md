@@ -23,4 +23,4 @@ Pesan yang ingin disampaikan: Semangat untuk kamu yang disana sedang berjuang
 10. Push ke dalam branch master
 **git push -u origin master**
 11. Lakukan pull request dari GitHub Repository yang telah kamu fork untuk digabungkan ke dalam branch master pada GitHub Repository aslinya.
-![Screenshot 2021-09-21 232233](https://user-images.githubusercontent.com/71106437/134215389-408f99c8-10fd-4992-8898-b6b70f5129ce.png)
+![image](https://user-images.githubusercontent.com/71106437/134215555-9f6bd43c-eda2-4932-89a5-fe56dab264b2.png)
