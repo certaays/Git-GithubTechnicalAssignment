@@ -62,11 +62,8 @@
  
 **git checkout main**
 
-9. ubah file README.md menjadi
-Halo perkenalkan aku halaman utama
-Ini adalah update pertama pada branch master
-jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan
-"update master pertama"
+9. ubah file README.md menjadi 
+Halo perkenalkan aku halaman utama Ini adalah update pertama pada branch master jangan lupa untuk mendokumentasikannya menggunakan commit dengan pesan "update master pertama"
  
 **echo "Ini adalah update pertama pada branch master" >> README.txt**
  
