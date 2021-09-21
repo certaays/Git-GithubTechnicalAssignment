@@ -1,5 +1,5 @@
 1. Fork repository GitHub https://github.com/impactbyte/tech4impact-students-bio.git menggunakan akun Github kamu
-
+![Screenshot 2021-09-21 225847](https://user-images.githubusercontent.com/71106437/134215308-5fbef5ea-6739-4c5a-9cec-d9fc48869804.png)
 2. Clone remote repository dari hasil fork tersebut. Jangan clone dari repository originalnya.
 **git clone https://github.com/certaays/tech4impact-students-bio.git**
 3. Buatlah branch baru dengan nama lengkap kamu. Misalnya david-winalda. Jangan melakukan perubahan pada branch master.
@@ -12,6 +12,7 @@
 Nama Lengkap: David Winalda
 Umur: 27
 Pesan yang ingin disampaikan: Semangat untuk kamu yang disana sedang berjuang
+![Screenshot 2021-09-21 231532](https://user-images.githubusercontent.com/71106437/134215368-acd6898e-bdf0-450a-a5bd-17520bb82b2d.png)
 7. Masukkan file .md tersebut ke dalam staging area
 **git add certayustitia.md**
 8. Commit dengan memberikan pesan nama file .md kamu
@@ -22,3 +23,4 @@ Pesan yang ingin disampaikan: Semangat untuk kamu yang disana sedang berjuang
 10. Push ke dalam branch master
 **git push -u origin master**
 11. Lakukan pull request dari GitHub Repository yang telah kamu fork untuk digabungkan ke dalam branch master pada GitHub Repository aslinya.
+![Screenshot 2021-09-21 232233](https://user-images.githubusercontent.com/71106437/134215389-408f99c8-10fd-4992-8898-b6b70f5129ce.png)
