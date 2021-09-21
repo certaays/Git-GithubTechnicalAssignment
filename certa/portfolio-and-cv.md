@@ -1,14 +1,12 @@
 1. membuat sebuah folder kosong dengan namamu sendiri 
 
 **mkdir certa**
-
 2. membuat sebuah file dengan nama README.md, isi file tersebut dengan kalimat
 "Halo perkenalkan aku halaman utama" 
  
 **touch README.md** 
  
 **echo "Halo perkenalkan aku halaman utama" >> README.md**
-
 3. insialisasi folder tersebut dengan Git, kemudian dokumentasikan menggunakan commit dengan pesan
 "Inisialisasi Git Repository"
  
@@ -17,7 +15,6 @@
 **git add README.md**
  
 **git commit -m "Inisialisasi Git Repository"**
-
 4. buat branch baru dengan nama cv, hal ini berguna agar histori kita tidak tercampur
  
 **git branch cv**
